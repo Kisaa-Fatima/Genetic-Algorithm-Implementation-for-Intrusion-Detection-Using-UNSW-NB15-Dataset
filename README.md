@@ -10,7 +10,7 @@ The implementation details of the Genetic Algorithm are inspired by the paper:
 "An Evolutionary Approach to Intrusion Detection System using Genetic Algorithm"
 
 **Dataset**
--Source: UNSW-NB15 Dataset
+- Source: UNSW-NB15 Dataset
 -Records: 175,341 (training), 82,332 (testing)
 -Attacks: Nine types including DoS, worms, backdoors, and fuzzers.
 **Requirements**
